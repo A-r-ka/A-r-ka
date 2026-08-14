@@ -86,6 +86,7 @@
   <img src="./Gospers_glider_gun.gif" alt="Game of Life" />
 
 </div>
+
 ---
 
 ### 💬 Onde me encontrar

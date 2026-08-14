@@ -64,7 +64,6 @@
 
   <!-- Cards interativos do GitHub -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-r-ka&theme=tokyonight" />
-  <img src="./metrics.plugin.languages.svg" alt="Linguagens mais usadas" />
 
   <br/><br/>
 

@@ -64,7 +64,7 @@
 
   <!-- Cards interativos do GitHub -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-r-ka&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=A-r-ka&theme=tokyonight" />
+  <img src="./metrics.plugin.languages.svg" alt="Linguagens mais usadas" />
 
   <br/><br/>
 
@@ -83,7 +83,7 @@
   
   ### 👾 Conway's Game of Life
 
-  <img src="https://github-readme-game-of-life.vercel.app/api?username=A-r-ka&theme=tokyonight" alt="Game of Life" />
+  <img src="./Gospers_glider_gun.gif" alt="Game of Life" />
 
 </div>
 ---

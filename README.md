@@ -79,16 +79,13 @@
 
 ---
 
-### 👾 Projeto Interativo: Jogo da Vida no Terminal / Markdown
+<div align="center">
+  
+  ### 👾 Projeto Interativo: Jogo da Vida no Terminal / Markdown
 
-+---+---+---+---+---+---+---+---+
-|   | O |   |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-|   |   | O |   |   |   |   |   |
-+---+---+---+---+---+---+---+---+
-| O | O | O |   |   |   |   |   |  <- "Glider em movimento..."
-+---+---+---+---+---+---+---+---+
+  <img src="https://github-readme-game-of-life.vercel.app/api?username=A-r-ka&theme=tokyonight" alt="Game of Life" />
 
+</div>
 ---
 
 ### 💬 Onde me encontrar

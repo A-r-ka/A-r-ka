@@ -63,8 +63,8 @@
 <div align="center">
 
   <!-- Cards interativos do GitHub -->
-  <img height="180em" src="https://github-readme-stats-fast-api.vercel.app/api?username=A-r-ka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-fast-api.vercel.app/api/top-langs/?username=A-r-ka&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-r-ka&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=A-r-ka&theme=tokyonight" />
 
   <br/><br/>
 

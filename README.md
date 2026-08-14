@@ -63,8 +63,8 @@
 <div align="center">
 
   <!-- Cards interativos do GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-r-ka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-r-ka&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-fast-api.vercel.app/api?username=A-r-ka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast-api.vercel.app/api/top-langs/?username=A-r-ka&layout=compact&theme=tokyonight&hide=html,css" />
 
   <br/><br/>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
   
-  ### 👾 Projeto Interativo: Jogo da Vida no Terminal / Markdown
+  ### 👾 Conway's Game of Life
 
   <img src="https://github-readme-game-of-life.vercel.app/api?username=A-r-ka&theme=tokyonight" alt="Game of Life" />
 
